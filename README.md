@@ -27,7 +27,7 @@ To empower the next generation of innovators by fostering interdisciplinary coll
 
 ## 📂 Our Projects
 
-- [**$nap**](https://github.com/Mintzs/oogaboogalm) — Won ***1st place at the bunq x Anthropic x AWS Hackathon*** in Amsterdam with the theme of "multimodal AI"
+- [**$nap**](https://github.com/lunixleiden/Snap) — Won ***1st place at the bunq x Anthropic x AWS Hackathon*** in Amsterdam with the theme of "multimodal AI"
 
 ---
 
